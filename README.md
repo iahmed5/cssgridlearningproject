@@ -5,4 +5,4 @@ Includes
 	- Grid Template Columns
 	- Media Queries (for Responsive Design)
 
-![Screenshot](pic1.png)
+![Screenshot](/projectScreenshots/pic1.png)
