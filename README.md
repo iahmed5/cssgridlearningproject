@@ -1,9 +1,11 @@
-#CSS Grid Website Project with Responsive Design
+# CSS Grid Website Project with Responsive Design
 
-Includes
+## Includes
 * Grid
 * Grid Template Columns
-* Media Queries (for Responsive Design)
+* 	Media Queries (for Responsive Design)
+
+## Project Screenshots
 
 ![Screenshot](/projectScreenshots/pic1.png)
 
